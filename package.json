@@ -1,0 +1,29 @@
+{
+  "name": "@masanarih0ri/cli",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masanarih0ri/js-node-cli-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masanarih0ri/js-node-cli-practice/issues"
+  },
+  "homepage": "https://github.com/masanarih0ri/js-node-cli-practice#readme",
+  "bin": {
+    "cli": "bin/cli.js"
+  }
+}
